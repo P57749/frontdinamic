@@ -1,0 +1,14 @@
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\bin\Debug\net7.0\Superficies cuadricas.exe
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\bin\Debug\net7.0\Superficies cuadricas.deps.json
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\bin\Debug\net7.0\Superficies cuadricas.runtimeconfig.json
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\bin\Debug\net7.0\Superficies cuadricas.dll
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\bin\Debug\net7.0\Superficies cuadricas.pdb
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\Superficies cuadricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\Superficies cuadricas.AssemblyInfoInputs.cache
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\Superficies cuadricas.AssemblyInfo.cs
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\Superficies cuadricas.csproj.CoreCompileInputs.cache
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\Superficies cuadricas.dll
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\refint\Superficies cuadricas.dll
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\Superficies cuadricas.pdb
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\Superficies cuadricas.genruntimeconfig.cache
+C:\Users\abelp\OneDrive\Desktop\Clon_Sistema_de_Referencia\Sistemas-de-referencia\obj\Debug\net7.0\ref\Superficies cuadricas.dll

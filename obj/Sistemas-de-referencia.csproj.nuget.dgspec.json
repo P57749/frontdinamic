@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\Superficies cuadricas.csproj": {}
+    "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\Sistemas-de-referencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\Superficies cuadricas.csproj": {
+    "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\Sistemas-de-referencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\Superficies cuadricas.csproj",
-        "projectName": "Superficies cuadricas",
-        "projectPath": "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\Superficies cuadricas.csproj",
+        "projectUniqueName": "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\Sistemas-de-referencia.csproj",
+        "projectName": "Sistemas-de-referencia",
+        "projectPath": "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\Sistemas-de-referencia.csproj",
         "packagesPath": "C:\\Users\\abelp\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\abelp\\OneDrive\\Desktop\\Clon_Sistema_de_Referencia\\Sistemas-de-referencia\\obj\\",
         "projectStyle": "PackageReference",
