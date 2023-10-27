@@ -276,9 +276,9 @@ namespace Sistema_de_Referencia
                 // Muestra los resultados en los campos de la derecha
                 //x
                 textBox6.Text = resultados[0];
-                y
+                //y
                 textBox7.Text = resultados[1];
-                z
+                //z
                 textBox8.Text = resultados[2];
             }
 
