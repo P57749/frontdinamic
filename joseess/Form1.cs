@@ -213,6 +213,17 @@ namespace Sistema_de_Referencia
             string longitud = comboBox3.SelectedItem + textBox4.Text;
             string latitud = comboBox4.SelectedItem + textBox3.Text;
 
+            List<string> parametros = new List<string>();
+
+            //longitud
+                parametros.Add(textBox1.Text);
+                //Este o Oeste
+                parametros.Add(textBox5.Text);
+                //Latitud
+                parametros.Add(textBox6.Text);
+                // //Norte o Sur
+                // parametros.Add(textBox3.Text);
+
 
             // Obtiene los valores de los campos de la izquierda
             //x
