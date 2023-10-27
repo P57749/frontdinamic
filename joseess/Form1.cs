@@ -269,15 +269,17 @@ namespace Sistema_de_Referencia
             else
             {
                 // Llama al método Calcular con los valores
+                List<string> resultados = Convertir.Convertir_Coordenada(parametros, coordenadasPartida, coordenadasLlegada);
+
                 //List<string> resultados = Convertir.ConvertirCoordenadas(coordenadasPartida, coordenadasLlegada,valor1, valor2, valor3);
 
                 // Muestra los resultados en los campos de la derecha
                 //x
-                //textBox6.Text = resultados[0];
-                //y
-                //textBox7.Text = resultados[1];
-                //z
-                // textBox8.Text = resultados[2];
+                textBox6.Text = resultados[0];
+                y
+                textBox7.Text = resultados[1];
+                z
+                textBox8.Text = resultados[2];
             }
 
         }
