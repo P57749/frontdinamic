@@ -192,31 +192,31 @@
             this.textBox6.TabIndex = 14;
             // 
             // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(24, 77);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(18, 16);
-            this.label3.TabIndex = 15;
-            this.label3.Text = "X:";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(24, 197);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(19, 16);
-            this.label4.TabIndex = 16;
-            this.label4.Text = "Y:";
+            // // 
+            // this.label3.AutoSize = true;
+            // this.label3.Location = new System.Drawing.Point(24, 77);
+            // this.label3.Name = "label3";
+            // this.label3.Size = new System.Drawing.Size(18, 16);
+            // this.label3.TabIndex = 15;
+            // this.label3.Text = "X:";
+            // // 
+            // // label4
+            // // 
+            // this.label4.AutoSize = true;
+            // this.label4.Location = new System.Drawing.Point(24, 197);
+            // this.label4.Name = "label4";
+            // this.label4.Size = new System.Drawing.Size(19, 16);
+            // this.label4.TabIndex = 16;
+            // this.label4.Text = "Y:";
             // 
             // label5
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(24, 297);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(18, 16);
-            this.label5.TabIndex = 17;
-            this.label5.Text = "Z:";
+            // this.label5.AutoSize = true;
+            // this.label5.Location = new System.Drawing.Point(24, 297);
+            // this.label5.Name = "label5";
+            // this.label5.Size = new System.Drawing.Size(18, 16);
+            // this.label5.TabIndex = 17;
+            // this.label5.Text = "Z:";
             // 
             // textBox2
             // 
@@ -304,30 +304,30 @@
             // 
             // label8
             // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(566, 294);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(18, 16);
-            this.label8.TabIndex = 29;
-            this.label8.Text = "Z:";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(566, 194);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(19, 16);
-            this.label9.TabIndex = 28;
-            this.label9.Text = "Y:";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(566, 69);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(18, 16);
-            this.label10.TabIndex = 27;
-            this.label10.Text = "X:";
+            // this.label8.AutoSize = true;
+            // this.label8.Location = new System.Drawing.Point(566, 294);
+            // this.label8.Name = "label8";
+            // this.label8.Size = new System.Drawing.Size(18, 16);
+            // this.label8.TabIndex = 29;
+            // this.label8.Text = "Z:";
+            // // 
+            // // label9
+            // // 
+            // this.label9.AutoSize = true;
+            // this.label9.Location = new System.Drawing.Point(566, 194);
+            // this.label9.Name = "label9";
+            // this.label9.Size = new System.Drawing.Size(19, 16);
+            // this.label9.TabIndex = 28;
+            // this.label9.Text = "Y:";
+            // // 
+            // // label10
+            // // 
+            // this.label10.AutoSize = true;
+            // this.label10.Location = new System.Drawing.Point(566, 69);
+            // this.label10.Name = "label10";
+            // this.label10.Size = new System.Drawing.Size(18, 16);
+            // this.label10.TabIndex = 27;
+            // this.label10.Text = "X:";
             // 
             // Form1
             // 
@@ -385,9 +385,9 @@
         private System.Windows.Forms.ComboBox comboBox4;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
+        // private System.Windows.Forms.Label label3;
+        // private System.Windows.Forms.Label label4;
+        // private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.ComboBox comboBox5;
@@ -397,9 +397,9 @@
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.TextBox textBox9;
         private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label10;
+    //     private System.Windows.Forms.Label label8;
+    //     private System.Windows.Forms.Label label9;
+    //     private System.Windows.Forms.Label label10;
     }
 }
 

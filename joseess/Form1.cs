@@ -237,9 +237,22 @@ namespace Sistema_de_Referencia
                 List<string> resultados = Convertir.Convertir_Coordenada(parametros, coordenadasPartida, coordenadasLlegada);
 
                 //latitud
-                //textBox9.Text= resultados[0];
+                textBox9.Text= resultados[0];
                 //longitud
-                //textBox8.Text= resultados[1];   
+                textBox8.Text= resultados[1];
+                
+                string lat = resultados[0];
+                string lng = resultados[1];
+
+                string url = $"https://www.google.com/maps/search/?api=1&query={lat},{lng}";
+
+                ProcessStartInfo psi = new ProcessStartInfo
+                {
+                    FileName = url,
+                    UseShellExecute = true
+                };
+
+        Process.Start(psi);   
 
             }
             else
